@@ -1,0 +1,29 @@
+Danh sách kênh:
+910529756351590460;announcements;false
+907537629417996359;general;true
+903939012031565824;notmeme;true
+900571981571821669;bot-command;true
+
+Emoji sử dụng được:
+:cuoideu: cười
+:luom: lườm
+:hmm: suy nghĩ
+:buon: buồn
+:cuoilai: cười với ngón tay cái
+:sek: vuốt trụ
+:sad: buồn ani
+:hetcuu: hết cứu
+:orz: lạy (orz)
+:cuoilay: cười với bàn tay xoa xoa 
+:cute: cute (xoa má)
+:chem: chém dao
+:adu: mắt đỏ (adu)
+:anbongngo: ăn bỏng ngô
+:aww: >w<
+:bu: liếm
+:mophat: tay amen (mô phật)
+:load: chậm hiểu (load não)
+
+Danh sách tin nhắn gần nhất:
+910529756351590460;702357853729587200;Dukey;Chúc mọi người 08/08 vui vẻ :cuoideu~2:;08/08/2024 7:38 AM
+907537629417996359;472596894464344077;cheeseytuna;o o ô o o;Yesterday at 10:38 PM
